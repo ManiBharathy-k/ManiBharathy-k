@@ -1,249 +1,197 @@
 <div align="center">
 
-# Hi, I'm Manibharathy 👋
+# MANIBHARATHY
 
-### AI & Systems Builder | Full-Stack Developer | DevOps & Infrastructure
+### AI & Systems Builder
 
-Building intelligent systems across  
-**Software • AI • Cloud • Infrastructure • IoT • Hardware**
+**Software • AI • Infrastructure • IoT • Hardware**
+
+I build complete systems — from application code and AI  
+to deployment, servers, networks, and physical hardware.
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 Developer Dashboard
 
-I'm a software developer and systems builder interested in understanding and building technology across the complete stack — from **applications and AI-powered systems** to **servers, networking, cloud infrastructure, IoT, and hardware prototyping**.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I enjoy solving real-world problems by connecting different layers of technology rather than treating them as isolated systems.
+### 🧠 AI & Intelligent Systems
 
-- Building full-stack and enterprise applications
-- Working with Linux servers and production deployments
-- Exploring AI agents, local LLMs, and intelligent systems
-- Building and experimenting with IoT and embedded hardware
-- Designing physical prototypes with SolidWorks and 3D printing
-- Currently expanding into Physical AI, robotics, and GPU computing
-- Long-term goal: **AI Developer & Systems Architect**
+- AI Agents
+- Local LLMs
+- RAG Systems
+- Ollama
+- AI Integration
+- Model Deployment
+
+**Learning Now**
+
+`Physical AI` `ROCm` `Robotics` `GPU Inference`
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Software Engineering
+
+- Full-Stack Development
+- REST API Development
+- Enterprise Applications
+- System Architecture
+- Mobile Applications
+- Database Design
+
+**Core Stack**
+
+`Java` `C#` `TypeScript` `Dart`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure & DevOps
+
+- Linux Server Administration
+- Application Deployment
+- CI/CD Pipelines
+- Cloud Infrastructure
+- Self-Hosting
+- Monitoring & Networking
+
+**Tools**
+
+`Azure` `Docker` `Nginx` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Hardware & Physical Systems
+
+- ESP32 & Arduino
+- IoT Systems
+- Sensors & Relays
+- MQTT
+- Hardware Integration
+- Rapid Prototyping
+
+**Engineering**
+
+`SolidWorks` `3D Printing`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
+## 🛠️ Technology Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,dart,python" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,ts,dart,python" />
 </p>
 
-### Frontend & Mobile
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,flutter,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,flutter,html,css,bootstrap" />
 </p>
 
-### Backend & APIs
+### Data & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,ubuntu,azure,docker,nginx" />
 </p>
 
-`REST APIs` `Spring Security` `JWT` `API Integration`
-
-### Databases
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-`Database Design` `Data Modeling` `Query Optimization`
-
-### DevOps, Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,azure,docker,nginx,githubactions,git,github" />
-</p>
-
-`CI/CD` `SSH` `Cloudflare Tunnel` `Tailscale` `Prometheus`  
-`Reverse Proxy` `Firewall Configuration` `Self-Hosting`
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,postman,maven,arduino" />
 </p>
 
 ---
 
-## AI & Intelligent Systems
+## 🚀 What I'm Building
 
-My current AI work and learning focuses on building practical systems that can run locally and integrate with real applications.
-
-**Working with**
-
-`AI Agents` `Local LLMs` `RAG` `Ollama` `AI Integration`  
-`Prompt Engineering` `Model Deployment`
-
-**Currently exploring**
-
-`Physical AI` `Multimodal AI` `Robotics` `AMD ROCm`  
-`GPU Inference` `Robotics Simulation`
+| Project | Area | Focus |
+|---|---|---|
+| 🤖 **AI Disk Assistant** | AI + Systems | Intelligent system interaction |
+| 🖥️ **Server Console** | Infrastructure | Simplified server management |
+| 🧠 **DataHelm** | AI + Data | Intelligent data systems |
+| ☁️ **Nobi-Z-Cloud** | Cloud | Self-hosted infrastructure |
+| 📦 **Inventory Management** | Enterprise | Asset management |
+| 📱 **MWA App** | Mobile | School management platform |
 
 ---
 
-## IoT & Embedded Systems
+## 🔥 Current Mission
 
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-</p>
+<table>
+<tr>
+<td>
 
-`ESP32` `MQTT` `Sensors` `Relays` `Hardware Integration`
+### AMD AI DevMaster Hackathon 2026
 
-I enjoy bridging software and the physical world by building connected systems and experimenting with intelligent hardware.
+**Track:** Physical AI
 
----
+Currently exploring and building with:
 
-## Engineering & Prototyping
+`Physical AI` • `Robotics` • `AMD Radeon` • `ROCm` • `Simulation`
 
-**SolidWorks • 3D Printing • Rapid Prototyping • Hardware Design**
+> Connecting AI intelligence with real and simulated physical systems.
 
-I work with mechanical design concepts and use 3D printing to turn digital designs into functional physical prototypes.
-
----
-
-## Systems & Networking
-
-My infrastructure experience includes:
-
-`Linux Server Administration` `TCP/IP` `Private Networks`  
-`Reverse Proxies` `Secure Remote Access` `Cloud Networking`  
-`Firewalls` `Application Deployment` `Infrastructure Troubleshooting`
-
-I have experience working across the complete application lifecycle:
-
-> **Frontend → Backend → Database → Deployment → Server → Network → Hardware**
+</td>
+</tr>
+</table>
 
 ---
 
-## Featured Projects
-
-### AI Disk Assistant
-
-An AI-powered system exploring intelligent interaction with disk and system operations.
-
-**Focus:** `AI` `System Tools` `Automation`
-
----
-
-### Server Console
-
-A platform designed to simplify server configuration, deployment, and infrastructure management for users without deep server administration knowledge.
-
-**Focus:** `Server Management` `DevOps` `Deployment` `Infrastructure Automation`
-
----
-
-### DataHelm
-
-A data-focused platform exploring intelligent data management and system interaction.
-
-**Focus:** `Data` `Software Architecture` `Intelligent Systems`
-
----
-
-### Nobi-Z-Cloud
-
-A project exploring simplified cloud infrastructure, self-hosting, and server management.
-
-**Focus:** `Cloud` `Infrastructure` `Self-Hosting`
-
----
-
-### Inventory Management
-
-An enterprise-focused inventory and IT asset management platform designed around real-world asset workflows.
-
-**Focus:** `Full Stack` `Enterprise Software` `Asset Management`
-
----
-
-### MWA App
-
-A cross-platform school-parent communication and management application.
-
-**Focus:** `Flutter` `Mobile Development` `API Integration`
-
----
-
-## What I Build
-
-| Area | Focus |
-|---|---|
-| AI | AI Agents, Local AI, RAG and AI-powered applications |
-| Software | Full-stack web and mobile applications |
-| Enterprise | ERP, CRM, inventory and business systems |
-| Infrastructure | Servers, deployment and self-hosted platforms |
-| DevOps | CI/CD, application deployment and monitoring |
-| Networking | Private networks and secure infrastructure |
-| IoT | ESP32, Arduino, sensors and connected systems |
-| Engineering | SolidWorks, 3D printing and rapid prototyping |
-| Physical AI | Exploring robotics and intelligent physical systems |
-
----
-
-## Current Focus
-
-I'm currently expanding deeper into:
-
-- Agentic AI systems
-- Local AI inference
-- Physical AI and embodied intelligence
-- Robotics and simulation
-- AMD Radeon GPU computing
-- ROCm
-- AI-powered enterprise systems
-- Scalable system architecture
-
----
-
-## AMD AI DevMaster Hackathon 2026
-
-Currently participating in the **AMD AI DevMaster Hackathon 2026**, exploring the intersection of:
+## 🧩 My Engineering Scope
 
 <div align="center">
 
-### AI + GPU Computing + Software + Simulation + Hardware
+### AI
+↓
+### Software
+↓
+### Database
+↓
+### Infrastructure
+↓
+### Network
+↓
+### Hardware
+
+**I enjoy understanding and building the complete system.**
 
 </div>
 
-My focus is on developing practical AI systems while learning more about GPU-accelerated computing, Physical AI, and robotics.
-
 ---
 
-## My Direction
+## 🎯 Currently Exploring
 
-I don't want to work only at one layer of technology.
-
-My goal is to become an **AI Developer and Systems Architect** capable of understanding and building complete intelligent systems:
-
-> **Idea → Architecture → Software → AI → Infrastructure → Deployment → Hardware**
+<table>
+<tr>
+<td align="center">🤖<br><b>Agentic AI</b></td>
+<td align="center">🦾<br><b>Physical AI</b></td>
+<td align="center">🎮<br><b>GPU Computing</b></td>
+<td align="center">⚡<br><b>AMD ROCm</b></td>
+<td align="center">🏗️<br><b>System Architecture</b></td>
+</tr>
+</table>
 
 ---
-
-## Let's Connect
-
-I'm interested in collaborating on:
-
-- AI and Agentic Systems
-- Physical AI and Robotics
-- Enterprise Software
-- Cloud and Infrastructure
-- IoT and Hardware
-- Open-Source Projects
 
 <div align="center">
 
-### Build. Understand. Integrate. Improve.
+### Building from Code to Infrastructure to Hardware.
 
-**Thanks for visiting my profile.**
+**AI Developer → Systems Architect**
 
 </div>
