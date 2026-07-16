@@ -6,260 +6,153 @@
 
 Building across **Software · AI · Infrastructure · Physical Systems**
 
-<br>
-
-`Full-Stack Engineering` &nbsp; `AI Engineering` &nbsp; `DevOps` &nbsp; `IoT`
+<img src="https://komarev.com/ghpvc/?username=ManiBharathy-k&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About
+## System Profile
 
-I build systems end to end.
+```text
+ROLE        AI & Systems Builder
+FOCUS       Intelligent Systems · Full-Stack · Infrastructure
+BUILDING    AI Agents · Enterprise Platforms · Connected Systems
+EXPLORING   Physical AI · Local Inference · System Architecture
+```
 
-My work spans application development, backend services, databases, servers, cloud infrastructure, networking, AI integration, IoT, and hardware prototyping.
-
-I am interested in understanding not only **how to build an application**, but how the complete system works — from the software users interact with to the infrastructure it runs on and the physical systems it connects to.
-
-I also use AI extensively throughout my engineering workflow for research, architecture, rapid prototyping, development, debugging, and iteration.
-
----
-
-## What I Work With
-
-### Software Engineering
-
-**Languages**
-
-`Java` · `C#` · `JavaScript` · `TypeScript` · `Dart` · `SQL`
-
-**Application Development**
-
-`Spring Boot` · `.NET` · `Angular` · `React` · `Flutter`
-
-**Backend & APIs**
-
-`REST APIs` · `Spring Security` · `JWT` · `API Integration`
+> I build end-to-end systems — from applications and AI workflows to deployment, infrastructure, networking, and connected hardware.
 
 ---
+
+## Technology
+
+### Software
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### AI Engineering
 
-`AI Agents` · `Local LLMs` · `RAG` · `Ollama`
+![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=flat-square)
+![Local LLMs](https://img.shields.io/badge/Local_LLMs-111111?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-005571?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-2563EB?style=flat-square)
+![AI Assisted Development](https://img.shields.io/badge/AI_Assisted_Development-059669?style=flat-square)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-DC2626?style=flat-square)
 
-`Prompt Engineering` · `Context Engineering`
+### Infrastructure
 
-`AI-Assisted Development` · `Agentic Workflows` · `Rapid Prototyping`
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
-I use AI as an engineering accelerator — helping me explore solutions, design systems, prototype faster, analyze problems, and iterate on implementations.
+### Data & Connected Systems
 
----
-
-### Data & Infrastructure
-
-**Data**
-
-`PostgreSQL` · `MySQL` · `Database Design`
-
-**Infrastructure**
-
-`Linux` · `Ubuntu Server` · `Azure` · `Docker` · `Nginx`
-
-**DevOps**
-
-`Git` · `GitHub Actions` · `CI/CD` · `Prometheus`
-
-**Networking**
-
-`TCP/IP` · `Private Networks` · `Firewalls`
-
-`Reverse Proxies` · `Cloudflare Tunnel` · `Tailscale`
-
----
-
-### Physical Systems
-
-**Embedded & IoT**
-
-`ESP32` · `Arduino` · `MQTT` · `Sensors` · `Relays`
-
-**Engineering**
-
-`SolidWorks` · `3D Printing` · `Hardware Integration` · `Rapid Prototyping`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-DA1F26?style=flat-square)
 
 ---
 
-## How I Build
+## Engineering Map
 
 ```text
-                         IDEA
-                           │
-                           ▼
-                 RESEARCH & DESIGN
-                           │
-                           ▼
-                    ARCHITECTURE
-                           │
-                           ▼
-                  SOFTWARE + AI
-                           │
-                           ▼
-                   DATA & SERVICES
-                           │
-                           ▼
-                   INFRASTRUCTURE
-                           │
-                           ▼
-                      DEPLOYMENT
-                           │
-                           ▼
-                PHYSICAL INTEGRATION
+                         INTELLIGENCE
+                              │
+                  AI Agents · LLMs · RAG
+                              │
+             ┌────────────────┴────────────────┐
+             │                                 │
+          SOFTWARE                        SYSTEMS
+             │                                 │
+    Web · Mobile · APIs              Linux · Cloud · DevOps
+             │                                 │
+             └────────────────┬────────────────┘
+                              │
+                         INFRASTRUCTURE
+                              │
+                   Network · Data · Compute
+                              │
+                              ▼
+                      PHYSICAL SYSTEMS
+                  IoT · Embedded · Hardware
 ```
-
-I enjoy working across the complete system rather than limiting myself to a single layer.
 
 ---
 
 ## Selected Work
 
-### AI Disk Assistant
-
-AI-assisted system and disk interaction designed to simplify system-level operations.
-
-`AI` · `System Tools` · `Automation`
-
----
-
-### Server Console
-
-A platform focused on simplifying server configuration, application deployment, and infrastructure management.
-
-`Infrastructure` · `DevOps` · `Automation`
+| Project | Domain | Focus |
+|:---|:---|:---|
+| **AI Disk Assistant** | AI / Systems | Intelligent system interaction |
+| **Server Console** | Infrastructure | Server deployment and management |
+| **DataHelm** | AI / Data | Intelligent data workflows |
+| **Nobi-Z-Cloud** | Cloud | Self-hosted infrastructure |
+| **Inventory Management** | Enterprise | Asset and operational workflows |
+| **MWA** | Mobile | Cross-platform application |
 
 ---
 
-### DataHelm
+## AI-Native Engineering
 
-Exploring intelligent approaches to data management and system interaction.
+My development workflow combines traditional engineering with AI-assisted execution.
 
-`AI` · `Data` · `Architecture`
+![Research](https://img.shields.io/badge/01-RESEARCH-2563EB?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/02-ARCHITECTURE-7C3AED?style=for-the-badge)
+![Build](https://img.shields.io/badge/03-BUILD-059669?style=for-the-badge)
+![Validate](https://img.shields.io/badge/04-VALIDATE-D97706?style=for-the-badge)
+![Deploy](https://img.shields.io/badge/05-DEPLOY-DC2626?style=for-the-badge)
 
----
+I use **prompt engineering, context engineering, agentic tools, and rapid AI-assisted development** to accelerate research, architecture, implementation, debugging, and iteration.
 
-### Nobi-Z-Cloud
-
-Exploring self-hosted infrastructure and simplified cloud and server management.
-
-`Cloud` · `Servers` · `Infrastructure`
-
----
-
-### Inventory Management
-
-An enterprise-focused platform for managing IT assets, inventory, and operational workflows.
-
-`Full Stack` · `Enterprise Systems` · `Asset Management`
+AI accelerates the workflow; engineering judgment remains responsible for architecture, validation, security, testing, and deployment.
 
 ---
 
-### MWA
+## Current Focus
 
-A cross-platform application for school and parent communication and management.
-
-`Flutter` · `Mobile` · `API Integration`
-
----
-
-## AI in My Engineering Workflow
-
-AI is integrated into how I work across different stages of engineering.
-
-```text
-UNDERSTAND
-    │
-    ▼
-RESEARCH
-    │
-    ▼
-ARCHITECT
-    │
-    ▼
-PROTOTYPE WITH AI
-    │
-    ▼
-BUILD
-    │
-    ▼
-REVIEW & VALIDATE
-    │
-    ▼
-TEST & DEBUG
-    │
-    ▼
-DEPLOY
-    │
-    ▼
-ITERATE
-```
-
-My workflow combines **AI-assisted development, prompt engineering, context engineering, agentic tools, and rapid vibe coding** with hands-on technical understanding, testing, and validation.
-
-I use AI to move faster — while maintaining ownership of architecture, implementation decisions, infrastructure, and the final system.
+| AGENTIC AI | PHYSICAL AI | AI INFRASTRUCTURE |
+|:---|:---|:---|
+| Tool use | Robotics | Local inference |
+| Memory | Simulation | GPU computing |
+| RAG | Embodied systems | Model deployment |
+| Automation | AI + Hardware | Scalable infrastructure |
 
 ---
 
-## Currently Exploring
+## GitHub Activity
 
-### Agentic AI
+<div align="center">
 
-Building and understanding systems that can reason, use tools, maintain context, access knowledge, and execute workflows.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ManiBharathy-k&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-### Physical AI
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManiBharathy-k&layout=compact&hide_border=true&theme=transparent" />
 
-Exploring the connection between artificial intelligence, simulation, robotics, sensors, and real-world physical systems.
+<br>
 
-### AI Infrastructure
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManiBharathy-k&theme=github-compact&hide_border=true&area=true" />
 
-Understanding local model deployment, GPU computing, inference, and the infrastructure required to operate intelligent systems.
-
-### System Architecture
-
-Designing reusable and scalable architectures that can adapt to different products, organizations, and real-world requirements.
-
----
-
-## Engineering Perspective
-
-```text
-                    ┌─────────────────┐
-                    │       AI        │
-                    │  INTELLIGENCE   │
-                    └────────┬────────┘
-                             │
-                             │
-          ┌──────────────────┴──────────────────┐
-          │                                     │
-          ▼                                     ▼
-┌───────────────────┐                 ┌───────────────────┐
-│     SOFTWARE      │                 │  INFRASTRUCTURE   │
-│                   │                 │                   │
-│ Web · Mobile      │                 │ Cloud · Servers   │
-│ APIs · Enterprise │                 │ DevOps · Network  │
-└─────────┬─────────┘                 └─────────┬─────────┘
-          │                                     │
-          └──────────────────┬──────────────────┘
-                             │
-                             ▼
-                   ┌───────────────────┐
-                   │ PHYSICAL SYSTEMS  │
-                   │                   │
-                   │ IoT · Embedded    │
-                   │ Hardware · Design │
-                   └───────────────────┘
-```
-
-My goal is to understand and build the **complete system** — connecting software, intelligence, infrastructure, and the physical world.
+</div>
 
 ---
 
@@ -267,10 +160,8 @@ My goal is to understand and build the **complete system** — connecting softwa
 
 ### AI Developer · Systems Architect
 
-**Software → Intelligence → Infrastructure → Physical Systems**
+`SOFTWARE` → `INTELLIGENCE` → `INFRASTRUCTURE` → `PHYSICAL SYSTEMS`
 
-<br>
-
-Building systems. Understanding how they work. Connecting the layers.
+Building complete systems and understanding the layers that connect them.
 
 </div>
