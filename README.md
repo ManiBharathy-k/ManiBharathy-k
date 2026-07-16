@@ -1,197 +1,245 @@
 <div align="center">
 
-# MANIBHARATHY
+# Manibharathy K
 
-### AI & Systems Builder
+### AI & Systems Builder · Full-Stack Engineering · Infrastructure · Intelligent Systems
 
-**Software • AI • Infrastructure • IoT • Hardware**
-
-I build complete systems — from application code and AI  
-to deployment, servers, networks, and physical hardware.
+Building end-to-end systems across software, AI, infrastructure, networking, and hardware.
 
 </div>
 
 ---
 
-## 👨‍💻 Developer Dashboard
-
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 AI & Intelligent Systems
-
-- AI Agents
-- Local LLMs
-- RAG Systems
-- Ollama
-- AI Integration
-- Model Deployment
-
-**Learning Now**
-
-`Physical AI` `ROCm` `Robotics` `GPU Inference`
-
+<td width="25%" align="center">
+<strong>SOFTWARE</strong><br><br>
+Full-Stack Development<br>
+Backend Systems<br>
+Mobile Applications
 </td>
-<td width="50%" valign="top">
 
-### 💻 Software Engineering
-
-- Full-Stack Development
-- REST API Development
-- Enterprise Applications
-- System Architecture
-- Mobile Applications
-- Database Design
-
-**Core Stack**
-
-`Java` `C#` `TypeScript` `Dart`
-
+<td width="25%" align="center">
+<strong>AI SYSTEMS</strong><br><br>
+AI Agents<br>
+Local LLMs<br>
+RAG Systems
 </td>
+
+<td width="25%" align="center">
+<strong>INFRASTRUCTURE</strong><br><br>
+Cloud & Linux<br>
+DevOps<br>
+Networking
+</td>
+
+<td width="25%" align="center">
+<strong>PHYSICAL SYSTEMS</strong><br><br>
+IoT & Embedded<br>
+Hardware Integration<br>
+Prototyping
+</td>
+</tr>
+</table>
+
+<br>
+
+## About
+
+I am a software developer and systems builder focused on designing and building complete technology solutions across multiple layers.
+
+My work spans application development, backend systems, databases, deployment infrastructure, networking, AI integration, IoT, and hardware prototyping.
+
+I am particularly interested in building systems where software, infrastructure, intelligence, and physical components work together as a complete architecture.
+
+---
+
+## Technical Stack
+
+<table>
+
+<tr>
+<td width="200"><strong>Languages</strong></td>
+<td>Java · C# · JavaScript · TypeScript · Dart · SQL</td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td><strong>Backend</strong></td>
+<td>Spring Boot · .NET · REST APIs · Spring Security · JWT</td>
+</tr>
 
-### ☁️ Infrastructure & DevOps
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Angular · React · HTML · CSS · Bootstrap</td>
+</tr>
 
-- Linux Server Administration
-- Application Deployment
-- CI/CD Pipelines
-- Cloud Infrastructure
-- Self-Hosting
-- Monitoring & Networking
+<tr>
+<td><strong>Mobile</strong></td>
+<td>Flutter</td>
+</tr>
 
-**Tools**
+<tr>
+<td><strong>Data</strong></td>
+<td>PostgreSQL · MySQL · Database Design · Data Modeling</td>
+</tr>
 
-`Azure` `Docker` `Nginx` `GitHub Actions`
+<tr>
+<td><strong>AI Systems</strong></td>
+<td>AI Agents · Local LLMs · RAG · Ollama · AI Integration · Model Deployment</td>
+</tr>
+
+<tr>
+<td><strong>Infrastructure</strong></td>
+<td>Linux · Ubuntu Server · Azure · Docker · Nginx · Self-Hosting</td>
+</tr>
+
+<tr>
+<td><strong>DevOps</strong></td>
+<td>GitHub Actions · CI/CD · Git · Prometheus · Application Deployment</td>
+</tr>
+
+<tr>
+<td><strong>Networking</strong></td>
+<td>TCP/IP · Private Networks · Firewalls · Reverse Proxies · Tailscale · Cloudflare Tunnel</td>
+</tr>
+
+<tr>
+<td><strong>Embedded & IoT</strong></td>
+<td>ESP32 · Arduino · MQTT · Sensors · Relays · Hardware Integration</td>
+</tr>
+
+<tr>
+<td><strong>Engineering</strong></td>
+<td>SolidWorks · 3D Printing · Rapid Prototyping</td>
+</tr>
+
+<tr>
+<td><strong>Development Tools</strong></td>
+<td>GitHub · Postman · IntelliJ IDEA · VS Code · Maven</td>
+</tr>
+
+</table>
+
+---
+
+## Selected Work
+
+<table>
+
+<tr>
+<th align="left">Project</th>
+<th align="left">Domain</th>
+<th align="left">Focus</th>
+</tr>
+
+<tr>
+<td><strong>AI Disk Assistant</strong></td>
+<td>AI / Systems</td>
+<td>Intelligent system interaction and disk management</td>
+</tr>
+
+<tr>
+<td><strong>Server Console</strong></td>
+<td>Infrastructure</td>
+<td>Server configuration, deployment, and infrastructure management</td>
+</tr>
+
+<tr>
+<td><strong>DataHelm</strong></td>
+<td>AI / Data</td>
+<td>Intelligent data management and system interaction</td>
+</tr>
+
+<tr>
+<td><strong>Nobi-Z-Cloud</strong></td>
+<td>Cloud Infrastructure</td>
+<td>Self-hosted infrastructure and simplified cloud management</td>
+</tr>
+
+<tr>
+<td><strong>Inventory Management</strong></td>
+<td>Enterprise Software</td>
+<td>IT asset tracking and operational inventory workflows</td>
+</tr>
+
+<tr>
+<td><strong>MWA</strong></td>
+<td>Mobile</td>
+<td>Cross-platform school and parent communication platform</td>
+</tr>
+
+</table>
+
+---
+
+## Current Focus
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<strong>Agentic AI</strong>
+
+Local inference, tool use, RAG, workflow automation, and intelligent enterprise systems.
 
 </td>
-<td width="50%" valign="top">
 
-### 🔌 Hardware & Physical Systems
+<td width="33%" valign="top">
 
-- ESP32 & Arduino
-- IoT Systems
-- Sensors & Relays
-- MQTT
-- Hardware Integration
-- Rapid Prototyping
+<strong>Physical AI</strong>
 
-**Engineering**
-
-`SolidWorks` `3D Printing`
+Embodied intelligence, robotics simulation, autonomous systems, and AI-hardware integration.
 
 </td>
+
+<td width="33%" valign="top">
+
+<strong>AI Infrastructure</strong>
+
+Local model deployment, GPU-accelerated workloads, scalable infrastructure, and AI system architecture.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technology Stack
+## Engineering Scope
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,dart,python" />
-</p>
-
-### Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,flutter,html,css,bootstrap" />
-</p>
-
-### Data & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,linux,ubuntu,azure,docker,nginx" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,idea,postman,maven,arduino" />
-</p>
-
----
-
-## 🚀 What I'm Building
-
-| Project | Area | Focus |
-|---|---|---|
-| 🤖 **AI Disk Assistant** | AI + Systems | Intelligent system interaction |
-| 🖥️ **Server Console** | Infrastructure | Simplified server management |
-| 🧠 **DataHelm** | AI + Data | Intelligent data systems |
-| ☁️ **Nobi-Z-Cloud** | Cloud | Self-hosted infrastructure |
-| 📦 **Inventory Management** | Enterprise | Asset management |
-| 📱 **MWA App** | Mobile | School management platform |
-
----
-
-## 🔥 Current Mission
-
-<table>
-<tr>
-<td>
-
-### AMD AI DevMaster Hackathon 2026
-
-**Track:** Physical AI
-
-Currently exploring and building with:
-
-`Physical AI` • `Robotics` • `AMD Radeon` • `ROCm` • `Simulation`
-
-> Connecting AI intelligence with real and simulated physical systems.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 My Engineering Scope
+I work across multiple layers of technology and focus on understanding how they connect as a complete system.
 
 <div align="center">
 
-### AI
-↓
-### Software
-↓
-### Database
-↓
-### Infrastructure
-↓
-### Network
-↓
-### Hardware
-
-**I enjoy understanding and building the complete system.**
-
-</div>
-
----
-
-## 🎯 Currently Exploring
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Agentic AI</b></td>
-<td align="center">🦾<br><b>Physical AI</b></td>
-<td align="center">🎮<br><b>GPU Computing</b></td>
-<td align="center">⚡<br><b>AMD ROCm</b></td>
-<td align="center">🏗️<br><b>System Architecture</b></td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### Building from Code to Infrastructure to Hardware.
-
-**AI Developer → Systems Architect**
-
-</div>
+```text
+┌─────────────────────────────┐
+│      AI & INTELLIGENCE      │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│        APPLICATIONS         │
+│    Web · Mobile · Desktop   │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│       APIs & SERVICES       │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│        DATA SYSTEMS         │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│       INFRASTRUCTURE        │
+│   Cloud · Linux · DevOps    │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│         NETWORKING          │
+└──────────────┬──────────────┘
+               │
+┌──────────────▼──────────────┐
+│      PHYSICAL SYSTEMS       │
+│    IoT · Embedded · HW      │
+└─────────────────────────────┘
