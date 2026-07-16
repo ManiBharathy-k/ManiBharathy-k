@@ -2,520 +2,275 @@
 
 # Manibharathy K
 
-### AI & Systems Builder · Full-Stack Engineering · Infrastructure · Intelligent Systems
+### AI & Systems Builder
 
-Building end-to-end systems across **software, AI, infrastructure, networking, and physical computing**.
+Building across **Software · AI · Infrastructure · Physical Systems**
+
+<br>
+
+`Full-Stack Engineering` &nbsp; `AI Engineering` &nbsp; `DevOps` &nbsp; `IoT`
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="25%" align="center" valign="top">
+## About
 
-<strong>SOFTWARE ENGINEERING</strong>
+I build systems end to end.
 
-<br>
+My work spans application development, backend services, databases, servers, cloud infrastructure, networking, AI integration, IoT, and hardware prototyping.
 
-Full-Stack Development<br>
-Backend Systems<br>
-Mobile Applications<br>
-Enterprise Software
+I am interested in understanding not only **how to build an application**, but how the complete system works — from the software users interact with to the infrastructure it runs on and the physical systems it connects to.
 
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<strong>AI ENGINEERING</strong>
-
-<br>
-
-AI Agents & Local LLMs<br>
-Prompt Engineering<br>
-AI-Assisted Development<br>
-RAG Systems
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<strong>INFRASTRUCTURE</strong>
-
-<br>
-
-Linux & Cloud<br>
-DevOps & CI/CD<br>
-Networking<br>
-Self-Hosting
-
-</td>
-
-<td width="25%" align="center" valign="top">
-
-<strong>PHYSICAL SYSTEMS</strong>
-
-<br>
-
-IoT & Embedded Systems<br>
-Hardware Integration<br>
-3D Design<br>
-Rapid Prototyping
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Profile
-
-I am a software developer and systems builder focused on understanding and engineering complete technology systems.
-
-My work spans **full-stack development, backend services, databases, cloud and server infrastructure, networking, AI integration, IoT, and hardware prototyping**.
-
-I use AI throughout my engineering workflow for research, architecture exploration, implementation, debugging, and rapid prototyping while maintaining hands-on control over system design, validation, testing, and deployment.
-
-I am particularly interested in systems where multiple technology layers work together as a complete architecture.
-
-> **Software + Intelligence + Infrastructure + Physical Systems**
+I also use AI extensively throughout my engineering workflow for research, architecture, rapid prototyping, development, debugging, and iteration.
 
 ---
 
-## Technical Stack
+## What I Work With
 
-<table>
+### Software Engineering
 
-<tr>
-<td width="210"><strong>Languages</strong></td>
-<td>Java · C# · JavaScript · TypeScript · Dart · SQL</td>
-</tr>
+**Languages**
 
-<tr>
-<td><strong>Backend</strong></td>
-<td>Spring Boot · .NET · REST APIs · Spring Security · JWT</td>
-</tr>
+`Java` · `C#` · `JavaScript` · `TypeScript` · `Dart` · `SQL`
 
-<tr>
-<td><strong>Frontend</strong></td>
-<td>Angular · React · HTML · CSS · Bootstrap</td>
-</tr>
+**Application Development**
 
-<tr>
-<td><strong>Mobile</strong></td>
-<td>Flutter</td>
-</tr>
+`Spring Boot` · `.NET` · `Angular` · `React` · `Flutter`
 
-<tr>
-<td><strong>Data</strong></td>
-<td>PostgreSQL · MySQL · Database Design · Data Modeling</td>
-</tr>
+**Backend & APIs**
 
-<tr>
-<td><strong>AI Systems</strong></td>
-<td>AI Agents · Local LLMs · RAG · Ollama · AI Integration · Model Deployment</td>
-</tr>
-
-<tr>
-<td><strong>AI Engineering</strong></td>
-<td>Prompt Engineering · Context Engineering · AI-Assisted Development · Agentic Workflows · Rapid Prototyping</td>
-</tr>
-
-<tr>
-<td><strong>Infrastructure</strong></td>
-<td>Linux · Ubuntu Server · Azure · Docker · Nginx · Self-Hosting</td>
-</tr>
-
-<tr>
-<td><strong>DevOps</strong></td>
-<td>GitHub Actions · CI/CD · Git · Prometheus · Application Deployment</td>
-</tr>
-
-<tr>
-<td><strong>Networking</strong></td>
-<td>TCP/IP · Private Networks · Firewalls · Reverse Proxies · Tailscale · Cloudflare Tunnel</td>
-</tr>
-
-<tr>
-<td><strong>Embedded & IoT</strong></td>
-<td>ESP32 · Arduino · MQTT · Sensors · Relays · Hardware Integration</td>
-</tr>
-
-<tr>
-<td><strong>Engineering</strong></td>
-<td>SolidWorks · 3D Printing · Rapid Prototyping</td>
-</tr>
-
-<tr>
-<td><strong>Development Tools</strong></td>
-<td>GitHub · Postman · IntelliJ IDEA · VS Code · Maven</td>
-</tr>
-
-</table>
+`REST APIs` · `Spring Security` · `JWT` · `API Integration`
 
 ---
 
-## AI-Assisted Engineering
+### AI Engineering
 
-I use AI as an **engineering accelerator** across the development lifecycle — from initial research and architecture to implementation, debugging, testing, and iteration.
+`AI Agents` · `Local LLMs` · `RAG` · `Ollama`
 
-<table>
+`Prompt Engineering` · `Context Engineering`
 
-<tr>
-<td width="210"><strong>Development</strong></td>
-<td>Code generation · Rapid prototyping · Refactoring · Debugging · Code analysis</td>
-</tr>
+`AI-Assisted Development` · `Agentic Workflows` · `Rapid Prototyping`
 
-<tr>
-<td><strong>Prompt Engineering</strong></td>
-<td>Structured prompting · Context engineering · Task decomposition · Iterative refinement</td>
-</tr>
+I use AI as an engineering accelerator — helping me explore solutions, design systems, prototype faster, analyze problems, and iterate on implementations.
 
-<tr>
-<td><strong>Architecture</strong></td>
-<td>System design exploration · Architecture analysis · Technology evaluation · Implementation planning</td>
-</tr>
+---
 
-<tr>
-<td><strong>AI-Native Workflow</strong></td>
-<td>AI-assisted coding · Vibe coding · Agentic development · Human-in-the-loop validation</td>
-</tr>
+### Data & Infrastructure
 
-<tr>
-<td><strong>Research</strong></td>
-<td>Technical research · Documentation analysis · Root-cause analysis · Solution exploration</td>
-</tr>
+**Data**
 
-<tr>
-<td><strong>AI Integration</strong></td>
-<td>Local LLMs · RAG · AI agents · Tool integration · AI-powered application workflows</td>
-</tr>
+`PostgreSQL` · `MySQL` · `Database Design`
 
-</table>
+**Infrastructure**
 
-<br>
+`Linux` · `Ubuntu Server` · `Azure` · `Docker` · `Nginx`
 
-### Engineering Workflow
+**DevOps**
+
+`Git` · `GitHub Actions` · `CI/CD` · `Prometheus`
+
+**Networking**
+
+`TCP/IP` · `Private Networks` · `Firewalls`
+
+`Reverse Proxies` · `Cloudflare Tunnel` · `Tailscale`
+
+---
+
+### Physical Systems
+
+**Embedded & IoT**
+
+`ESP32` · `Arduino` · `MQTT` · `Sensors` · `Relays`
+
+**Engineering**
+
+`SolidWorks` · `3D Printing` · `Hardware Integration` · `Rapid Prototyping`
+
+---
+
+## How I Build
 
 ```text
-DEFINE
-  │
-  ▼
-RESEARCH
-  │
-  ▼
-ARCHITECT
-  │
-  ▼
-BUILD WITH AI
-  │
-  ▼
-REVIEW & VALIDATE
-  │
-  ▼
-TEST & DEBUG
-  │
-  ▼
-DEPLOY
-  │
-  ▼
-ITERATE
+                         IDEA
+                           │
+                           ▼
+                 RESEARCH & DESIGN
+                           │
+                           ▼
+                    ARCHITECTURE
+                           │
+                           ▼
+                  SOFTWARE + AI
+                           │
+                           ▼
+                   DATA & SERVICES
+                           │
+                           ▼
+                   INFRASTRUCTURE
+                           │
+                           ▼
+                      DEPLOYMENT
+                           │
+                           ▼
+                PHYSICAL INTEGRATION
 ```
+
+I enjoy working across the complete system rather than limiting myself to a single layer.
 
 ---
 
 ## Selected Work
 
-<table>
+### AI Disk Assistant
 
-<tr>
-<th align="left">PROJECT</th>
-<th align="left">DOMAIN</th>
-<th align="left">FOCUS</th>
-</tr>
+AI-assisted system and disk interaction designed to simplify system-level operations.
 
-<tr>
-<td><strong>AI Disk Assistant</strong></td>
-<td>AI / Systems</td>
-<td>AI-assisted system interaction and disk management</td>
-</tr>
-
-<tr>
-<td><strong>Server Console</strong></td>
-<td>Infrastructure</td>
-<td>Simplified server configuration, deployment, and management</td>
-</tr>
-
-<tr>
-<td><strong>DataHelm</strong></td>
-<td>AI / Data</td>
-<td>Intelligent data management and system interaction</td>
-</tr>
-
-<tr>
-<td><strong>Nobi-Z-Cloud</strong></td>
-<td>Cloud Infrastructure</td>
-<td>Self-hosted infrastructure and simplified cloud management</td>
-</tr>
-
-<tr>
-<td><strong>Inventory Management</strong></td>
-<td>Enterprise Software</td>
-<td>IT asset tracking and operational inventory workflows</td>
-</tr>
-
-<tr>
-<td><strong>MWA</strong></td>
-<td>Mobile</td>
-<td>Cross-platform school and parent communication platform</td>
-</tr>
-
-</table>
+`AI` · `System Tools` · `Automation`
 
 ---
 
-## Current Focus
+### Server Console
 
-<table>
-<tr>
+A platform focused on simplifying server configuration, application deployment, and infrastructure management.
 
-<td width="33%" valign="top">
-
-<strong>AGENTIC AI</strong>
-
-<br><br>
-
-Local inference, tool use, memory, RAG, workflow automation, and intelligent enterprise systems.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong>PHYSICAL AI</strong>
-
-<br><br>
-
-Embodied intelligence, robotics simulation, autonomous systems, and AI-hardware integration.
-
-</td>
-
-<td width="33%" valign="top">
-
-<strong>AI INFRASTRUCTURE</strong>
-
-<br><br>
-
-Local model deployment, GPU computing, scalable infrastructure, and intelligent system architecture.
-
-</td>
-
-</tr>
-</table>
+`Infrastructure` · `DevOps` · `Automation`
 
 ---
 
-## Engineering Scope
+### DataHelm
 
-I work across multiple layers of technology and focus on understanding how they connect as a complete system.
+Exploring intelligent approaches to data management and system interaction.
+
+`AI` · `Data` · `Architecture`
+
+---
+
+### Nobi-Z-Cloud
+
+Exploring self-hosted infrastructure and simplified cloud and server management.
+
+`Cloud` · `Servers` · `Infrastructure`
+
+---
+
+### Inventory Management
+
+An enterprise-focused platform for managing IT assets, inventory, and operational workflows.
+
+`Full Stack` · `Enterprise Systems` · `Asset Management`
+
+---
+
+### MWA
+
+A cross-platform application for school and parent communication and management.
+
+`Flutter` · `Mobile` · `API Integration`
+
+---
+
+## AI in My Engineering Workflow
+
+AI is integrated into how I work across different stages of engineering.
 
 ```text
-┌───────────────────────────────────────┐
-│         AI & INTELLIGENCE             │
-│   Agents · LLMs · RAG · Automation   │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│             APPLICATIONS              │
-│        Web · Mobile · Enterprise      │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│           APIs & SERVICES             │
-│       Backend · Auth · Integration    │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│             DATA SYSTEMS              │
-│       PostgreSQL · MySQL · Data       │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│            INFRASTRUCTURE             │
-│       Linux · Cloud · DevOps          │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│              NETWORKING               │
-│      Private Networks · Security      │
-└──────────────────┬────────────────────┘
-                   │
-┌──────────────────▼────────────────────┐
-│          PHYSICAL SYSTEMS             │
-│      IoT · Embedded · Hardware        │
-└───────────────────────────────────────┘
+UNDERSTAND
+    │
+    ▼
+RESEARCH
+    │
+    ▼
+ARCHITECT
+    │
+    ▼
+PROTOTYPE WITH AI
+    │
+    ▼
+BUILD
+    │
+    ▼
+REVIEW & VALIDATE
+    │
+    ▼
+TEST & DEBUG
+    │
+    ▼
+DEPLOY
+    │
+    ▼
+ITERATE
 ```
 
----
+My workflow combines **AI-assisted development, prompt engineering, context engineering, agentic tools, and rapid vibe coding** with hands-on technical understanding, testing, and validation.
 
-## What I Build
-
-<table>
-
-<tr>
-<td width="25%" valign="top">
-
-<strong>ENTERPRISE SYSTEMS</strong>
-
-<br><br>
-
-ERP<br>
-CRM<br>
-Inventory Platforms<br>
-Business Workflows
-
-</td>
-
-<td width="25%" valign="top">
-
-<strong>INTELLIGENT SYSTEMS</strong>
-
-<br><br>
-
-AI Agents<br>
-Local AI<br>
-RAG Systems<br>
-Automation
-
-</td>
-
-<td width="25%" valign="top">
-
-<strong>PLATFORMS</strong>
-
-<br><br>
-
-Web Applications<br>
-Mobile Applications<br>
-Server Platforms<br>
-Infrastructure Tools
-
-</td>
-
-<td width="25%" valign="top">
-
-<strong>CONNECTED SYSTEMS</strong>
-
-<br><br>
-
-IoT<br>
-Embedded Hardware<br>
-Sensors<br>
-Physical Prototypes
-
-</td>
-
-</tr>
-</table>
+I use AI to move faster — while maintaining ownership of architecture, implementation decisions, infrastructure, and the final system.
 
 ---
 
 ## Currently Exploring
 
-<table>
+### Agentic AI
 
-<tr>
-<td width="25%" align="center">
+Building and understanding systems that can reason, use tools, maintain context, access knowledge, and execute workflows.
 
-<strong>AGENTIC AI</strong>
+### Physical AI
 
-<br><br>
+Exploring the connection between artificial intelligence, simulation, robotics, sensors, and real-world physical systems.
 
-Reasoning<br>
-Tool Use<br>
-Memory<br>
-Automation
+### AI Infrastructure
 
-</td>
+Understanding local model deployment, GPU computing, inference, and the infrastructure required to operate intelligent systems.
 
-<td width="25%" align="center">
+### System Architecture
 
-<strong>PHYSICAL AI</strong>
-
-<br><br>
-
-Robotics<br>
-Simulation<br>
-Embodied AI<br>
-Autonomous Systems
-
-</td>
-
-<td width="25%" align="center">
-
-<strong>AI COMPUTE</strong>
-
-<br><br>
-
-Local Inference<br>
-GPU Computing<br>
-Model Optimization<br>
-AI Infrastructure
-
-</td>
-
-<td width="25%" align="center">
-
-<strong>ARCHITECTURE</strong>
-
-<br><br>
-
-Scalable Systems<br>
-Distributed Systems<br>
-Enterprise Architecture<br>
-Intelligent Infrastructure
-
-</td>
-
-</tr>
-
-</table>
+Designing reusable and scalable architectures that can adapt to different products, organizations, and real-world requirements.
 
 ---
 
-## Engineering Direction
-
-My goal is to continue developing expertise in designing and engineering complete intelligent systems — from initial architecture and software development to AI integration, infrastructure, deployment, networking, and physical integration.
+## Engineering Perspective
 
 ```text
-IDEA
-  │
-  ▼
-ARCHITECTURE
-  │
-  ▼
-SOFTWARE
-  │
-  ▼
-INTELLIGENCE
-  │
-  ▼
-INFRASTRUCTURE
-  │
-  ▼
-DEPLOYMENT
-  │
-  ▼
-PHYSICAL INTEGRATION
+                    ┌─────────────────┐
+                    │       AI        │
+                    │  INTELLIGENCE   │
+                    └────────┬────────┘
+                             │
+                             │
+          ┌──────────────────┴──────────────────┐
+          │                                     │
+          ▼                                     ▼
+┌───────────────────┐                 ┌───────────────────┐
+│     SOFTWARE      │                 │  INFRASTRUCTURE   │
+│                   │                 │                   │
+│ Web · Mobile      │                 │ Cloud · Servers   │
+│ APIs · Enterprise │                 │ DevOps · Network  │
+└─────────┬─────────┘                 └─────────┬─────────┘
+          │                                     │
+          └──────────────────┬──────────────────┘
+                             │
+                             ▼
+                   ┌───────────────────┐
+                   │ PHYSICAL SYSTEMS  │
+                   │                   │
+                   │ IoT · Embedded    │
+                   │ Hardware · Design │
+                   └───────────────────┘
 ```
+
+My goal is to understand and build the **complete system** — connecting software, intelligence, infrastructure, and the physical world.
 
 ---
 
 <div align="center">
 
-## AI Developer · Systems Architect
+### AI Developer · Systems Architect
 
-### Building complete systems from software to intelligence to infrastructure.
+**Software → Intelligence → Infrastructure → Physical Systems**
 
-`SOFTWARE` · `AI` · `SYSTEMS` · `INFRASTRUCTURE` · `HARDWARE`
+<br>
+
+Building systems. Understanding how they work. Connecting the layers.
 
 </div>
